@@ -27,3 +27,4 @@ Podjęłam decyzję o udziale w projekcie by zmienić obecną pracę i uwierzyć
  - pole wzrostu także nie ma jednostki w jakiej mamy wpisać podany zwrost zawodnika a pole przyjmuje wszystkie możliwe znaki z klawiatury.
  - w opcji dodawania akcji podczas meczu możemy zmieniać ilości połowy meczu (24 połowa meczu) nie jest prawidłową wartością wg założenia meczu piłki nożnej.
  - button SAVE podczas generowania raportu znajduje się w prawym górnym rogu ekranu co nie jest intuicyjne, zazwyczaj szukamy przycisku na dole i w prawym rogu lub poprostu pod spodem. 
+- przycisk cofnij przy meczach nie cofa połowy. 
