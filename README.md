@@ -15,9 +15,9 @@ Podjęłam decyzję o udziale w projekcie by zmienić obecną pracę i uwierzyć
 * Jest to aplikacja dla skautów piłki nożnej. Umożliwia przeglądanie wskaźników, umiejętności i pozycji zawodników. Aplikacja polega na dodawaniu i zarządzaniu graczami, meczami oraz do tworzenia raportów. 
 * W aplikacji mamy funcje dodawania i edycji graczy (imie, nazwisko, pozycja, klub, wojewodztwo, numer telefonu, data urodzenia, wzrost). Opcje są bardzo intuicyjne, dobrze gdyby była także opcja dodania zdjęcia profilowego gracza. Mamy rownież opcję filtrowania czyli wyszukiwania graczy poprzez selekcję na podstawie np. wieku czy wzrostu. Aplikacja stwarza również możliwosci generowania raportów oraz relacji z meczów.
 * Wygląd inerfejsu jest dość prosty i przejrzysty, mimo to nie określa do czego jest ta aplikacja. Przydałby się motyw piłki, boiska i kolorystyki związanej bliżej z tematyką aplikacji. W momencie wybranego klubu, w którym jest gracz ciekawie gdyby tło karty zawodnika przybierało barwy klubu. Dodanie zdjecie profilowego zawodnika też spowodowałoby atrakcyjniejszy wygląd karty gracza. Ładne jest logo (Fotbal Kolektyw) z liniami papilarnymi co wiąże się z idea aplikacji czyli tworzeniem takiego ID zawodnika, jednak super gdyby linie papilarnie wprowazić na piłkę. Mielibyśy obraz, po którym od razu widać do czego odnośi się aplikacja.
-##![obraz](https://user-images.githubusercontent.com/116502803/198895058-f4f5e689-8a81-40af-a37a-d5662f45111a.png)
+![obraz](https://user-images.githubusercontent.com/116502803/198895058-f4f5e689-8a81-40af-a37a-d5662f45111a.png)
 * Aplikacja jest bardzo intuicyjna jeśli chodzi o opcję dodania gracza. Jesli chodzi o raporty oraz mecze trzeba się chwilę zastanowić jaka opcja odnosi się do czego konkretnie. Można byłoby urpośić opcje na bardziej intuicyjne. 
-* %(#F2FF02)[czerwony] Zauważyłam błedy przy opcji wprowadzania zawodnika</span>.
+* %(#F2FF02 [Zauważyłam] Zauważyłam błedy przy opcji wprowadzania zawodnika</span>.
 * Zauważyłam błedy przy opcji wprowadzania zawodnika : 
  1. Nie powinno byc opcji dodania wieku nieprawidłowego (wiek np.156 ),
  2. Numer telefonu przyjmuje nieprawidłowe wartości ( litery, znaki specjalne, nie ma określonej dlugości ciągu cyfr ani wyboru nr. kierunkowego)
