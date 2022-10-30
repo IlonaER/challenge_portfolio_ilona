@@ -35,4 +35,4 @@ przy opcji wprowadzania zawodnika do aplikacji :
  10. Button SAVE podczas generowania raportu znajduje się w prawym górnym rogu ekranu co nie jest intuicyjne, zazwyczaj szukamy przycisku na dole i w prawym rogu lub poprostu pod spodem wszelkich wprowadzonych danych. 
 11. Przycisk cofnij przy meczach nie cofa liczby połów meczu. 
 12. Trzykrotne szybkie naciśniecie raportu do pobrania spowodowało bład 404. *e37646be6bec636a7b98d9f81a3aeebfba345560.b0333572accba70fd07f.js:1          POST https://api.scouts-test.futbolkolektyw.pl/events/site 404*
-,,
+
