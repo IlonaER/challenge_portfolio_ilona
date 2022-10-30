@@ -31,6 +31,7 @@ przy opcji wprowadzania zawodnika do aplikacji :
  7. W opcji dodawania akcji podczas meczu możemy zmieniać ilości połów meczu (np.24 połowa meczu) co nie jest prawidłową wartością wg założenia meczu piłki nożnej.
  8. W polu link do FB pole przyjmuje wszelkie dane a powinno być dedykowane dla strony http.
  9. W polu język możemy wpisać dowolny ciąg cyfr lub znaków.
+ 
  podczas generowania raportów :
  10. Button SAVE podczas generowania raportu znajduje się w prawym górnym rogu ekranu co nie jest intuicyjne, zazwyczaj szukamy przycisku na dole i w prawym rogu lub poprostu pod spodem wszelkich wprowadzonych danych. 
 11. Przycisk cofnij przy meczach nie cofa liczby połów meczu. 
