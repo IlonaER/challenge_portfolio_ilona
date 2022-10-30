@@ -17,6 +17,7 @@ Podjęłam decyzję o udziale w projekcie by zmienić obecną pracę i uwierzyć
 * Wygląd interfejsu jest dość prosty i przejrzysty, mimo to nie określa do czego jest ta aplikacja. Przydałby się motyw piłki, boiska i kolorystyki związanej bliżej z tematyką aplikacji. W momencie wybranego klubu, w którym jest gracz ciekawie gdyby tło karty zawodnika przybierało barwy klubu. Dodanie zdjecia profilowego zawodnika też spowodowałoby atrakcyjniejszy wygląd karty gracza. Ładne jest logo (Fotbal Kolektyw) z liniami papilarnymi co wiąże się z ideą aplikacji czyli tworzeniem ID zawodnika, jednak super gdyby linie papilarnie wprowazić na piłkę. Mielibyśy obraz/logo, po którym od razu widać do czego odnośi się aplikacja.
 !![obraz](https://user-images.githubusercontent.com/116502803/198896849-d02f7b93-9408-45f3-a6f6-03e812ec0d2d.png)
 * Aplikacja jest bardzo intuicyjna jeśli chodzi o opcję dodania gracza. Jesli chodzi o raporty oraz mecze trzeba się chwilę zastanowić jaka opcja odnosi się do czego konkretnie. Można byłoby urpośić opcje na bardziej intuicyjne. 
+* Aplikacja działa poprawnie w przeglądarce Chrome, Mozilla, Opera, Microsoft Edge oraz w telefonie Samsung A51, Aipad Air, Samsung Galaxy s8, Iphone XR jednak we wszystkich opcjach po wejsciu w odnośnik do meczów należy mocno przesuwać w lewo ekran w celu zobaczenia jakie opcje kryją się na końcu w opcjach AKCJE.  
 
 :warning: 
 ### Zauważyłam błedy przy opcji wprowadzania zawodnika do aplikacji : 
@@ -27,5 +28,8 @@ Podjęłam decyzję o udziale w projekcie by zmienić obecną pracę i uwierzyć
  5. W polu waga nie ma mamy podanej jednostki wagi, nie wiemy czy wpisujemy kg czy tony, także ilość znaków jakie możemy użyć w tym polu ma za dużo      możliwości.
  6. Pole wzrostu także nie ma jednostki miary w jakiej mamy wpisać podany zwrost zawodnika a pole przyjmuje wszystkie możliwe znaki z klawiatury.
  7. W opcji dodawania akcji podczas meczu możemy zmieniać ilości połów meczu (np.24 połowa meczu) co nie jest prawidłową wartością wg założenia meczu piłki nożnej.
- 8. Button SAVE podczas generowania raportu znajduje się w prawym górnym rogu ekranu co nie jest intuicyjne, zazwyczaj szukamy przycisku na dole i w prawym rogu lub poprostu pod spodem wszelkich wprowadzonych danych. 
+ 8. W polu link do FB pole przyjmuje wszelkie dane a powinno być dedykowane dla strony http.
+ 9. W polu język możemy wpisać dowolny ciąg cyfr lub znaków.
+ 10. Button SAVE podczas generowania raportu znajduje się w prawym górnym rogu ekranu co nie jest intuicyjne, zazwyczaj szukamy przycisku na dole i w prawym rogu lub poprostu pod spodem wszelkich wprowadzonych danych. 
 9. Przycisk cofnij przy meczach nie cofa liczby połów meczu. 
+10. Trzykrotne naciśniecie raportu do pobrania powoduje bład 404. *e37646be6bec636a7b98d9f81a3aeebfba345560.b0333572accba70fd07f.js:1          POST https://api.scouts-test.futbolkolektyw.pl/events/site 404*
