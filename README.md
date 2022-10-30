@@ -9,7 +9,7 @@ Cześć! Zdecydowałam sie na udział w challenge portfolio by stworzyć repozyt
 
 Podjęłam decyzję o udziale w projekcie by zmienić obecną pracę i uwierzyć w siebie. Kieruje mną chęć nauki i rozwoju. Moim celem jest praca jako tester oprogramowania, wiara we własne możliwości oraz nabranie pewności siebie. Oczekuję od projektu interesującej formy nauczania oraz wsparcia mentorskiego. Obiecuję, że gdy w przyszłości uda mi się zdobyć wymarzoną pracę podzielę się z Tobą tą informacją.   :muscle: :fire:
 
-# _Ilona_
+## _Ilona_
 
 ## Subtask 4
 * Aplikacja polega na dodawaniu i zarządzaniu graczami, meczami oraz do tworzenia raportów.
@@ -18,4 +18,4 @@ Podjęłam decyzję o udziale w projekcie by zmienić obecną pracę i uwierzyć
 * Aplikacja jest bardzo intuicyjna. 
 * Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
 * Nie powinno byc opcji dodania wieku nieprawidłowego (wiek - 156 ), 
-* potem dokoncze. prosze jeszcze nie oceniac. 
+*  
