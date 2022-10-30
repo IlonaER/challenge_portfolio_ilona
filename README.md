@@ -20,7 +20,8 @@ Podjęłam decyzję o udziale w projekcie by zmienić obecną pracę i uwierzyć
 * Aplikacja działa poprawnie w przeglądarce Chrome, Mozilla, Opera, Microsoft Edge oraz w telefonie Samsung A51, Aipad Air, Samsung Galaxy s8, Iphone XR jednak we wszystkich opcjach po wejsciu w odnośnik do meczów należy mocno przesuwać w lewo ekran w celu zobaczenia jakie opcje kryją się na końcu w opcjach AKCJE.  
 
 :warning: 
-### Zauważyłam błedy przy opcji wprowadzania zawodnika do aplikacji : 
+### Zauważyłam błedy :
+przy opcji wprowadzania zawodnika do aplikacji : 
  1. Mamy możliwość wprowadzenia wieku gracza,który jest nierealny (wiek np.156 ),
  2. Numer telefonu przyjmuje nieprawidłowe wartości ( litery, znaki specjalne, nie ma określonej dlugości ciągu cyfr ani wyboru nr. kierunkowego)
  3. Nierawidłowe wartości dat urodzenia w polu daty urodzenia zawodnika (np. rok 1000 )
