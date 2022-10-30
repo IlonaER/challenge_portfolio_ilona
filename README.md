@@ -13,19 +13,19 @@ Podjęłam decyzję o udziale w projekcie by zmienić obecną pracę i uwierzyć
 
 ## Subtask 4
 * Jest to aplikacja dla skautów piłki nożnej. Umożliwia przeglądanie wskaźników, umiejętności i pozycji zawodników. Aplikacja polega na dodawaniu i zarządzaniu graczami, meczami oraz do tworzenia raportów. 
-* W aplikacji mamy funcje dodawania i edycji graczy (imie, nazwisko, pozycja, klub, wojewodztwo, numer telefonu, data urodzenia, wzrost). Opcje są bardzo intuicyjne, dobrze gdyby była także opcja dodania zdjęcia profilowego gracza. Mamy rownież opcję filtrowania czyli wyszukiwania graczy poprzez selekcję na podstawie np. wieku czy wzrostu. Aplikacja stwarza również możliwosci generowania raportów oraz relacji z meczów.
-* Wygląd inerfejsu jest dość prosty i przejrzysty, mimo to nie określa do czego jest ta aplikacja. Przydałby się motyw piłki, boiska i kolorystyki związanej bliżej z tematyką aplikacji. W momencie wybranego klubu, w którym jest gracz ciekawie gdyby tło karty zawodnika przybierało barwy klubu. Dodanie zdjecie profilowego zawodnika też spowodowałoby atrakcyjniejszy wygląd karty gracza. Ładne jest logo (Fotbal Kolektyw) z liniami papilarnymi co wiąże się z idea aplikacji czyli tworzeniem takiego ID zawodnika, jednak super gdyby linie papilarnie wprowazić na piłkę. Mielibyśy obraz, po którym od razu widać do czego odnośi się aplikacja.
+* W aplikacji mamy funkcje dodawania i edycji graczy (imie, nazwisko, pozycja, klub, wojewodztwo, numer telefonu, data urodzenia, wzrost zawodnika). Opcje są bardzo intuicyjne, jednak dobrze gdyby była także opcja dodania zdjęcia profilowego gracza. Wizualnie wyglądałoby to atrakcyjniej dla karty gracza. Mamy rownież opcję filtrowania czyli wyszukiwania graczy poprzez selekcję na podstawie np. wieku czy wzrostu. Aplikacja stwarza również możliwosci generowania raportów oraz relacji z meczów.
+* Wygląd interfejsu jest dość prosty i przejrzysty, mimo to nie określa do czego jest ta aplikacja. Przydałby się motyw piłki, boiska i kolorystyki związanej bliżej z tematyką aplikacji. W momencie wybranego klubu, w którym jest gracz ciekawie gdyby tło karty zawodnika przybierało barwy klubu. Dodanie zdjecia profilowego zawodnika też spowodowałoby atrakcyjniejszy wygląd karty gracza. Ładne jest logo (Fotbal Kolektyw) z liniami papilarnymi co wiąże się z ideą aplikacji czyli tworzeniem ID zawodnika, jednak super gdyby linie papilarnie wprowazić na piłkę. Mielibyśy obraz/logo, po którym od razu widać do czego odnośi się aplikacja.
 !![obraz](https://user-images.githubusercontent.com/116502803/198896849-d02f7b93-9408-45f3-a6f6-03e812ec0d2d.png)
 * Aplikacja jest bardzo intuicyjna jeśli chodzi o opcję dodania gracza. Jesli chodzi o raporty oraz mecze trzeba się chwilę zastanowić jaka opcja odnosi się do czego konkretnie. Można byłoby urpośić opcje na bardziej intuicyjne. 
 
 :warning: 
-### Zauważyłam błedy przy opcji wprowadzania zawodnika : 
- 1. Nie powinno byc opcji dodania wieku nieprawidłowego (wiek np.156 ),
+### Zauważyłam błedy przy opcji wprowadzania zawodnika do aplikacji : 
+ 1. Mamy możliwość wprowadzenia wieku gracza,który jest nierealny (wiek np.156 ),
  2. Numer telefonu przyjmuje nieprawidłowe wartości ( litery, znaki specjalne, nie ma określonej dlugości ciągu cyfr ani wyboru nr. kierunkowego)
- 3. Nierawidłowe wartości dat urodzenia (np. rok 1000 )
- 4. W polu imie i nazwisko pola przyjmują wartości cyfr co także jest błedem
- 5. W polu waga nie ma mamy podanej jednostki wagi, nie wiemy czy wpisujemy kg czy tony, także ilość znaków jakie możemy użyć w tym polu ma za dużo      możliwości
- 6. Pole wzrostu także nie ma jednostki w jakiej mamy wpisać podany zwrost zawodnika a pole przyjmuje wszystkie możliwe znaki z klawiatury.
- 7. W opcji dodawania akcji podczas meczu możemy zmieniać ilości połowy meczu (24 połowa meczu) nie jest prawidłową wartością wg założenia meczu piłki nożnej.
+ 3. Nierawidłowe wartości dat urodzenia w polu daty urodzenia zawodnika (np. rok 1000 )
+ 4. W polu imie i nazwisko pole przyjmuje wartości cyfr co także jest błedem.
+ 5. W polu waga nie ma mamy podanej jednostki wagi, nie wiemy czy wpisujemy kg czy tony, także ilość znaków jakie możemy użyć w tym polu ma za dużo      możliwości.
+ 6. Pole wzrostu także nie ma jednostki miary w jakiej mamy wpisać podany zwrost zawodnika a pole przyjmuje wszystkie możliwe znaki z klawiatury.
+ 7. W opcji dodawania akcji podczas meczu możemy zmieniać ilości połów meczu (np.24 połowa meczu) co nie jest prawidłową wartością wg założenia meczu piłki nożnej.
  8. Button SAVE podczas generowania raportu znajduje się w prawym górnym rogu ekranu co nie jest intuicyjne, zazwyczaj szukamy przycisku na dole i w prawym rogu lub poprostu pod spodem wszelkich wprowadzonych danych. 
-9. Przycisk cofnij przy meczach nie cofa liczby połowy. 
+9. Przycisk cofnij przy meczach nie cofa liczby połów meczu. 
