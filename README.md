@@ -22,6 +22,7 @@ Podjęłam decyzję o udziale w projekcie by zmienić obecną pracę i uwierzyć
 :warning: 
 ### Zauważyłam błedy :
 przy opcji wprowadzania zawodnika do aplikacji : 
+
  1. Mamy możliwość wprowadzenia wieku gracza,który jest nierealny (wiek np.156 ),
  2. Numer telefonu przyjmuje nieprawidłowe wartości ( litery, znaki specjalne, nie ma określonej dlugości ciągu cyfr ani wyboru nr. kierunkowego)
  3. Nierawidłowe wartości dat urodzenia w polu daty urodzenia zawodnika (np. rok 1000 )
@@ -33,7 +34,8 @@ przy opcji wprowadzania zawodnika do aplikacji :
  9. W polu język możemy wpisać dowolny ciąg cyfr lub znaków.
  
  podczas generowania raportów :
- 10. Button SAVE podczas generowania raportu znajduje się w prawym górnym rogu ekranu co nie jest intuicyjne, zazwyczaj szukamy przycisku na dole i w prawym rogu lub poprostu pod spodem wszelkich wprowadzonych danych. 
+ 
+10. Button SAVE podczas generowania raportu znajduje się w prawym górnym rogu ekranu co nie jest intuicyjne, zazwyczaj szukamy przycisku na dole i w prawym rogu lub poprostu pod spodem wszelkich wprowadzonych danych. 
 11. Przycisk cofnij przy meczach nie cofa liczby połów meczu. 
 12. Trzykrotne szybkie naciśniecie raportu do pobrania spowodowało bład 404. *e37646be6bec636a7b98d9f81a3aeebfba345560.b0333572accba70fd07f.js:1          POST https://api.scouts-test.futbolkolektyw.pl/events/site 404*
 
