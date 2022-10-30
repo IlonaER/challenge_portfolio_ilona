@@ -17,7 +17,9 @@ Podjęłam decyzję o udziale w projekcie by zmienić obecną pracę i uwierzyć
 * Wygląd inerfejsu jest dość prosty i przejrzysty, mimo to nie określa do czego jest ta aplikacja. Przydałby się motyw piłki, boiska i kolorystyki związanej bliżej z tematyką aplikacji. W momencie wybranego klubu, w którym jest gracz ciekawie gdyby tło karty zawodnika przybierało barwy klubu. Dodanie zdjecie profilowego zawodnika też spowodowałoby atrakcyjniejszy wygląd karty gracza. Ładne jest logo (Fotbal Kolektyw) z liniami papilarnymi co wiąże się z idea aplikacji czyli tworzeniem takiego ID zawodnika, jednak super gdyby linie papilarnie wprowazić na piłkę. Mielibyśy obraz, po którym od razu widać do czego odnośi się aplikacja.
 !![obraz](https://user-images.githubusercontent.com/116502803/198896849-d02f7b93-9408-45f3-a6f6-03e812ec0d2d.png)
 * Aplikacja jest bardzo intuicyjna jeśli chodzi o opcję dodania gracza. Jesli chodzi o raporty oraz mecze trzeba się chwilę zastanowić jaka opcja odnosi się do czego konkretnie. Można byłoby urpośić opcje na bardziej intuicyjne. 
-*:warning: Zauważyłam błedy przy opcji wprowadzania zawodnika : 
+
+*:warning: 
+# Zauważyłam błedy przy opcji wprowadzania zawodnika : 
  1. Nie powinno byc opcji dodania wieku nieprawidłowego (wiek np.156 ),
  2. Numer telefonu przyjmuje nieprawidłowe wartości ( litery, znaki specjalne, nie ma określonej dlugości ciągu cyfr ani wyboru nr. kierunkowego)
  3. Nierawidłowe wartości dat urodzenia (np. rok 1000 )
