@@ -18,15 +18,15 @@ Podjęłam decyzję o udziale w projekcie by zmienić obecną pracę i uwierzyć
 * ![obraz](https://user-images.githubusercontent.com/116502803/198882018-ab8c9f9c-6617-407e-9a41-d8c42a6e93f1.png)
 
 * Aplikacja jest bardzo intuicyjna jeśli chodzi o opcję dodania gracza. Jesli chodzi o raporty oraz mecze trzeba się chwilę zastanowić co odnosi się do czego konkretnie. Można byłoby urpośić opcje. 
-* %(#hex koloru)[kolorowy tekst]
+Błedy :
 * %(#F​​Zauważyłam błedy przy opcji wprowadzania zawodnika :​0)[czerwony]
 * %(#F​​F000​0)[czerwony] Zauważyłam błedy przy opcji wprowadzania zawodnika : 
- - Nie powinno byc opcji dodania wieku nieprawidłowego (wiek np.156 ),
- - Numer telefonu przyjmuje nieprawidłowe wartości ( litery, znaki specjalne, nie ma określonej dlugości ciągu cyfr ani wyboru nr. kierunkowego)
- - nierawidłowe wartości dat urodzenia (np. rok 1000 )
- - w polu imie i nazwisko pola przyjmują wartości cyfr co także jest błedem
- - w polu waga nie ma mamy podanej jednostki wagi, nie wiemy czy wpisujemy kg czy tony, także ilość znaków jakie możemy użyć w tym polu ma za dużo możliwości
- - pole wzrostu także nie ma jednostki w jakiej mamy wpisać podany zwrost zawodnika a pole przyjmuje wszystkie możliwe znaki z klawiatury.
- - w opcji dodawania akcji podczas meczu możemy zmieniać ilości połowy meczu (24 połowa meczu) nie jest prawidłową wartością wg założenia meczu piłki nożnej.
- - button SAVE podczas generowania raportu znajduje się w prawym górnym rogu ekranu co nie jest intuicyjne, zazwyczaj szukamy przycisku na dole i w prawym rogu lub poprostu pod spodem. 
-- przycisk cofnij przy meczach nie cofa połowy. 
+ 1. Nie powinno byc opcji dodania wieku nieprawidłowego (wiek np.156 ),
+ 2. Numer telefonu przyjmuje nieprawidłowe wartości ( litery, znaki specjalne, nie ma określonej dlugości ciągu cyfr ani wyboru nr. kierunkowego)
+ 3. Nierawidłowe wartości dat urodzenia (np. rok 1000 )
+ 4. W polu imie i nazwisko pola przyjmują wartości cyfr co także jest błedem
+ 5. W polu waga nie ma mamy podanej jednostki wagi, nie wiemy czy wpisujemy kg czy tony, także ilość znaków jakie możemy użyć w tym polu ma za dużo      możliwości
+ 6. pole wzrostu także nie ma jednostki w jakiej mamy wpisać podany zwrost zawodnika a pole przyjmuje wszystkie możliwe znaki z klawiatury.
+ 7. w opcji dodawania akcji podczas meczu możemy zmieniać ilości połowy meczu (24 połowa meczu) nie jest prawidłową wartością wg założenia meczu piłki nożnej.
+ 8. button SAVE podczas generowania raportu znajduje się w prawym górnym rogu ekranu co nie jest intuicyjne, zazwyczaj szukamy przycisku na dole i w prawym rogu lub poprostu pod spodem. 
+9. przycisk cofnij przy meczach nie cofa połowy. 
