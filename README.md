@@ -52,9 +52,5 @@ Możemy użyć narzędzi do tego dedykowanych jak Test link czy Azure devops.
 Linki :
 Testlink
 https://testlink.org/
-Azure Develops
-https://warsztaty.azure.pl/?gclid=CjwKCAjw8JKbBhBYEiwAs3sxN778jt9QzLNvLDrDvgEA44OELMYXYEUj0ZV37HqKSUUq9W1B44JZ2BoCoj4QAvD_BwE
-
-
-
-
+Azure DevOps
+https://www.datadoghq.com
