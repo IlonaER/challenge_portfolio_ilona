@@ -53,8 +53,7 @@ _Po co piszemy przypadki testowe?_
 (https://www.youtube.com/watch?v=bnXuZiqDCn4)
 
 
-Możemy użyć narzędzi do tego dedykowanych jak Test link czy Azure devops. 
-💻 :computer: 
+Możemy użyć narzędzi do tego dedykowanych jak Test link czy Azure devops. :computer: 
 
 
 Linki :
