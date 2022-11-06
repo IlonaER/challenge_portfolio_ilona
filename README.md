@@ -49,7 +49,9 @@ _Po co piszemy przypadki testowe?_
   
   
  :point_down: watch the movie :movie_camera:
- [![Watch the video](https://www.youtube.com/watch?v=bnXuZiqDCn4)
+ 
+ [![Watch the video] ![obraz](https://user-images.githubusercontent.com/116502803/200179639-1fc0c994-0d5f-4642-bd9b-957e68567906.png)
+(https://www.youtube.com/watch?v=bnXuZiqDCn4)
 (https://www.youtube.com/watch?v=bnXuZiqDCn4)
 
 
