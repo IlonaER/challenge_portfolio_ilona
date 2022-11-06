@@ -56,7 +56,6 @@ _Po co piszemy przypadki testowe?_
 
 
 Możemy użyć narzędzi do tego dedykowanych jak Test link czy Azure devops. :computer: 
-[![Watch the video](/images/content/4279611/690cc1ce1c97ed83c883846f84451ad3.png)](http://youtu.be/vt5fpE0bzSY)
 
 Linki :
 1. Testlink
