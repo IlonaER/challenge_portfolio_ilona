@@ -72,3 +72,5 @@ Linki do pobrania :
 :flashlight: https://www.datadoghq.com 
 
 ## Subtask 4
+
+:pencil2: https://docs.google.com/spreadsheets/d/1MD1S5wBgJ6zUIX6PbR7WrFMYCJyFb6xvwxZhSzbRqCo/edit
