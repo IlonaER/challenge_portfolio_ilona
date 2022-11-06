@@ -41,6 +41,14 @@ przy opcji wprowadzania zawodnika do aplikacji :
 
 # TASK 2
 
+## Subtask 1
+
+:pencil2: https://docs.google.com/spreadsheets/d/1SQZNn9DFWDLQHjvpZF3Y-jgVg40fRn8WiL9FYvge3Z0/edit#gid=0
+
+## Subtask 2
+
+:pencil2:https://docs.google.com/spreadsheets/d/1zVuimNVxVWDsMral14TWLH-uEDZOKgyXpBZP_CxqrSk/edit#gid=0
+
 ## Subtask 3
 :question:
 _Po co piszemy przypadki testowe?_ 
@@ -62,3 +70,5 @@ Linki do pobrania :
 :flashlight: https://testlink.org/
 2. Azure DevOps
 :flashlight: https://www.datadoghq.com 
+
+## Subtask 4
