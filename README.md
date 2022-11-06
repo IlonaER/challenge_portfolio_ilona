@@ -43,9 +43,11 @@ przy opcji wprowadzania zawodnika do aplikacji :
 
 ## Subtask 3
    
-   Przypadki testowe to kroki, które pozwalają nam zweryfikować czy dana funkcjonalność spełnia określone założenie. Jest to jedne z podstawnych zdań testera. Pisanie przypadków testowych jest po to by dobrze rozplanować to co chcemy przetestować. Nie jest to trudne ale czasem bywa pracochłonne i żmudne. Jednak potrafi pobudzić wyobraźnię. Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności. Po zakończeniu testów, na podstawie przypadków testowych możemy budować nasze raporty z wykonanych testów. Dla nowo przyjętych do zespołu ludzi przypadki testowe mogą stać się bardzo dobrym źródłem informacji o niej. 
+   **Przypadki testowe** to kroki, które pozwalają nam zweryfikować czy dana funkcjonalność spełnia określone założenie. Jest to jedne z podstawnych zdań testera. Pisanie przypadków testowych jest po to by dobrze rozplanować to co chcemy przetestować. Nie jest to trudne ale czasem bywa pracochłonne i żmudne. Jednak potrafi pobudzić wyobraźnię. Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności. Po zakończeniu testów, na podstawie przypadków testowych możemy budować nasze raporty z wykonanych testów. Dla nowo przyjętych do zespołu ludzi przypadki testowe mogą stać się bardzo dobrym źródłem informacji o niej. 
+   
+   <!--- Here's my comment --->
 
-https://www.youtube.com/watch?v=bnXuZiqDCn4
+<!--- https://www.youtube.com/watch?v=bnXuZiqDCn4 --->
 
 Możemy użyć narzędzi do tego dedykowanych jak Test link czy Azure devops. 
 
