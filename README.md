@@ -55,9 +55,9 @@ _Po co piszemy przypadki testowe?_
 
 
 
-Możemy użyć narzędzi do tego dedykowanych jak Test link czy Azure devops. :computer: 
+Możemy użyć programów dedykowanych do pisania przypadków testowych :  _Test link czy Azure devops_. :computer: 
 
-Linki :
+Linki do pobrania :
 1. Testlink
 :flashlight: https://testlink.org/
 2. Azure DevOps
