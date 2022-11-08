@@ -73,4 +73,4 @@ Linki do pobrania :
 
 ## Subtask 4
 
-:pencil2: https://docs.google.com/spreadsheets/d/1MD1S5wBgJ6zUIX6PbR7WrFMYCJyFb6xvwxZhSzbRqCo/edit
+:pencil2: https://docs.google.com/document/d/1qCHG3Kz0est6oassLm8g_u2Ln6Ugymq7/edit
