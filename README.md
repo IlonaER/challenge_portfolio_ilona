@@ -33,6 +33,7 @@ przy opcji wprowadzania zawodnika do aplikacji :
  8. W polu link do FB pole przyjmuje wszelkie dane a powinno być dedykowane dla strony http.
  9. W polu język możemy wpisać dowolny ciąg cyfr lub znaków.
  10. Nie ma możliwosci skasowania gracza. 
+ 11. Button " wyczyść" nie powoduje usunięcia wszystkich danych z formularza. 
  
  podczas generowania raportów :
  
