@@ -48,8 +48,7 @@ ogólne :
 1. Brak możliwości płatności za dane o graczach, brak zakładki płatności. 
 2. Brak numerów raportów.
 3. Literówki "ostatnio zaaktualizowany gracz"
-4. Bład w słowie "Aktywnosć"
-5. 
+4. Bład w słowie "Aktywnosć". 
 
 
 # TASK 2
