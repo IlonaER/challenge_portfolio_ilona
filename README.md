@@ -23,6 +23,9 @@ Podjęłam decyzję o udziale w projekcie by zmienić obecną pracę i uwierzyć
 ### Zauważyłam błedy :
 przy opcji wprowadzania zawodnika do aplikacji : 
 
+![obraz]![obraz](https://user-images.githubusercontent.com/116502803/201052623-874b0481-1296-48eb-b478-f83e7253948c.png)
+
+
  1. Mamy możliwość wprowadzenia wieku gracza,który jest nierealny (wiek np.156 ),
  2. Numer telefonu przyjmuje nieprawidłowe wartości ( litery, znaki specjalne, nie ma określonej dlugości ciągu cyfr ani wyboru nr. kierunkowego)
  3. Nierawidłowe wartości dat urodzenia w polu daty urodzenia zawodnika (np. rok 1000 )
@@ -43,6 +46,10 @@ przy opcji wprowadzania zawodnika do aplikacji :
 
 ogólne :
 1. Brak możliwości płatności za dane o graczach, brak zakładki płatności. 
+2. Brak numerów raportów.
+3. Literówki "ostatnio zaaktualizowany gracz"
+4. Bład w słowie "Aktywnosć"
+5. 
 
 
 # TASK 2
