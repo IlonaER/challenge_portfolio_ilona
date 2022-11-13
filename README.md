@@ -50,6 +50,9 @@ ogólne :
 3. Literówki "ostatnio zaaktualizowany gracz"
 4. Bład w słowie "Aktywnosć". 
 
+![obraz](https://user-images.githubusercontent.com/116502803/201538188-7d65fae8-deb3-44a4-b55a-6a64661ec51c.png)
+
+
 
 # TASK 2
 
