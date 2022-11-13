@@ -91,5 +91,7 @@ Linki do pobrania :
 
 ## Subtask 1-3
 
+![obraz]
+
 :pencil2: https://drive.google.com/drive/u/0/folders/1v1DXEawc7s8jlVrfs7ysKHICE9BBL8R3
 
