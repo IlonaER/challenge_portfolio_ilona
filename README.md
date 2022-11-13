@@ -86,3 +86,10 @@ Linki do pobrania :
 ## Subtask 4
 
 :pencil2: https://docs.google.com/document/d/1qCHG3Kz0est6oassLm8g_u2Ln6Ugymq7/edit
+
+# TASK 3
+
+## Subtask 1-3
+
+:pencil2: https://drive.google.com/drive/u/0/folders/1v1DXEawc7s8jlVrfs7ysKHICE9BBL8R3
+
