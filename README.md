@@ -98,7 +98,7 @@ _LINK DO FOLDERU Z ZADANIAMI 1-3_
 
 :pencil2: https://drive.google.com/drive/u/0/folders/1v1DXEawc7s8jlVrfs7ysKHICE9BBL8R3
 
-![obraz](https://user-images.githubusercontent.com/116502803/201517766-d56cf3d1-790c-4bba-897b-ae7acdfeffef.png)
+![obraz]BUUUGS(https://user-images.githubusercontent.com/116502803/201517766-d56cf3d1-790c-4bba-897b-ae7acdfeffef.png)
 
 
 
