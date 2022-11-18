@@ -112,6 +112,11 @@ _LINK DO FOLDERU Z ZADANIAMI 1-3_
 
 ## Subtask 3
 
+# Do czego służy ta aplikacja?
+
+![obraz](https://user-images.githubusercontent.com/116502803/202800943-88b3f884-821d-4102-9b9d-c2283f13459e.png)
+
+
 1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
 2. Kto ma być użytkownikiem końcowym aplikacji?
 3. Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)
