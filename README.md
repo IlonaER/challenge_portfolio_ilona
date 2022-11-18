@@ -108,7 +108,7 @@ _LINK DO FOLDERU Z ZADANIAMI 1-3_
 
 
 ## Subtask 1-2
-
+:pencil2: https://docs.google.com/spreadsheets/d/1fdO8D-vW5-ebooiQZmZp25QEW7fAelsv94ogZbqN-P4/edit#gid=0
 
 ## Subtask 3
 
