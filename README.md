@@ -117,12 +117,26 @@ _LINK DO FOLDERU Z ZADANIAMI 1-3_
 ![obraz](https://user-images.githubusercontent.com/116502803/202800943-88b3f884-821d-4102-9b9d-c2283f13459e.png)
 
 
- |1. Do czego służy ta aplikacja?| Jaki jest cel tej aplikacji?| 
+ _1. Do czego służy ta aplikacja?| Jaki jest cel tej aplikacji?_ 
  
- ||2. Kto ma być użytkownikiem końcowym aplikacji? ||
+ Focusly to aplikacja wspierająca rozwój osobisty poprzez nagrania psychoedukacyjne, praktyki uważności i medytacje prowadzone tworzone przez ekspertów – psychologów, terapeutów, trenerów uważności i nauczycieli medytacji.
+
+ _2. Kto ma być użytkownikiem końcowym aplikacji?_
  
- || 3. Czy według Ciebie aplikacja jest user friendly?  || 
- (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)
-4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )
-5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+ Końcowym użytkownikiem aplikacji zostaje osoba chcąca poprawić koncentrację, zadbać o swój mózg, emocje, ukojenie nerwów. 
+ 
+ 
+ _3. Czy według Ciebie aplikacja jest user friendly?  
+ 
+ Uważam że aplikacja jest przyjazna dla użytkownika i zachęca do medytacji każdego dnia. Przyciski są intuicyjne. 
+ 
+_4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?_
+
+Dodałabym w aplikacji możliwość dodania zdjęcia profilowego , interakcji miedzy kursantem a nauczycielem w postaci komentarzy pod artykułami , dodałabym możliwość prędkości odtwarzania  w playerze
+
+_5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?_
+
+Strona internetowa skupia się na przekazie informacji dla osoby odwiedzającej, proste funkcjonalności, zazwyczaj nie wymaga uwierzytelniania personalnego.
+Aplikacja zaprojektowana jest do interakcji z użytkownikiem, posiada złożone mechanizmy i funkcje, zazwyczaj wymaga uwierzytelnienia personalnego. 
+
 
