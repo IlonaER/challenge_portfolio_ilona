@@ -117,7 +117,7 @@ _LINK DO FOLDERU Z ZADANIAMI 1-3_
 ![obraz](https://user-images.githubusercontent.com/116502803/202800943-88b3f884-821d-4102-9b9d-c2283f13459e.png)
 
 
- _1. Do czego służy ta aplikacja?| Jaki jest cel tej aplikacji?_ 
+ _1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?_ 
  
  Focusly to aplikacja wspierająca rozwój osobisty poprzez nagrania psychoedukacyjne, praktyki uważności i medytacje prowadzone tworzone przez ekspertów – psychologów, terapeutów, trenerów uważności i nauczycieli medytacji.
 
@@ -126,7 +126,7 @@ _LINK DO FOLDERU Z ZADANIAMI 1-3_
  Końcowym użytkownikiem aplikacji zostaje osoba chcąca poprawić koncentrację, zadbać o swój mózg, emocje, ukojenie nerwów. 
  
  
- _3. Czy według Ciebie aplikacja jest user friendly?  
+ _3. Czy według Ciebie aplikacja jest user friendly?_  
  
  Uważam że aplikacja jest przyjazna dla użytkownika i zachęca do medytacji każdego dnia. Przyciski są intuicyjne. 
  
