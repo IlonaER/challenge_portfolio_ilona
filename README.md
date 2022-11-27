@@ -1,5 +1,7 @@
 # TASK 1
 
+#Testy Eksploracyjne
+
 ## Subtask 1
 
 9 punktów 😊
@@ -56,6 +58,8 @@ ogólne :
 
 # TASK 2
 
+#Przypadki Testowe
+
 ## Subtask 1
 
 :pencil2: https://docs.google.com/spreadsheets/d/1SQZNn9DFWDLQHjvpZF3Y-jgVg40fRn8WiL9FYvge3Z0/edit#gid=0
@@ -92,6 +96,8 @@ Linki do pobrania :
 
 # TASK 3
 
+#Raportowanie błędów
+
 ## Subtask 1-3
 
 _LINK DO FOLDERU Z ZADANIAMI 1-3_
@@ -103,6 +109,8 @@ _LINK DO FOLDERU Z ZADANIAMI 1-3_
 
 
 # TASK 4 
+
+#Testowanie aplikacji mobilnych
 
 ![obraz](https://user-images.githubusercontent.com/116502803/202800529-b76b2cc4-310c-47bd-9b95-1d42acbc2052.png)
 
@@ -140,6 +148,8 @@ Strona internetowa skupia się na przekazie informacji dla osoby odwiedzającej,
 Aplikacja zaprojektowana jest do interakcji z użytkownikiem, posiada złożone mechanizmy i funkcje, zazwyczaj wymaga uwierzytelnienia personalnego. 
 
 # TASK 5
+
+#SQL part 1
 
 ## Subtask 1
 
