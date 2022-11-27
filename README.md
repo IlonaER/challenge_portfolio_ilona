@@ -100,7 +100,7 @@ _LINK DO FOLDERU Z ZADANIAMI 1-3_
 
 ![obraz](https://user-images.githubusercontent.com/116502803/201517766-d56cf3d1-790c-4bba-897b-ae7acdfeffef.png)
 
-## Subtask 4
+
 
 # TASK 4 
 
