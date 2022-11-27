@@ -157,47 +157,57 @@ ZROBIONE!!! :D ✔️
 ## Subtask 3
 
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
-![obraz](https://user-images.githubusercontent.com/116502803/204156956-71e26d95-3b43-44ca-8e68-29f70e59ae3d.png)
+
+![obraz](https://user-images.githubusercontent.com/116502803/204158047-b9c7f1d6-e59f-49a4-bf2a-81dc588cdbae.png)
 
 
 2. Wyświetl film, który powstał w 2019 roku.
-![obraz](https://user-images.githubusercontent.com/116502803/204156973-f8faeb36-34b7-444f-abc8-593c673344b1.png)
+![obraz](https://user-images.githubusercontent.com/116502803/204158058-e78e0cf2-b454-4b27-a78b-88c2a95463f8.png)
+
 
 
 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
 
-![obraz](https://user-images.githubusercontent.com/116502803/204156987-fbd4497d-0b16-44e2-a200-e714b6cacf51.png)
+![obraz](https://user-images.githubusercontent.com/116502803/204158067-a5cbe0ab-24c6-4089-aa5a-7c4174aefa7e.png)
+
+
 
 
 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ 
 
-![obraz](https://user-images.githubusercontent.com/116502803/204157005-166ba037-5d52-40db-b568-f7f785698b08.png)
+![obraz](https://user-images.githubusercontent.com/116502803/204158072-2b3b9592-200c-4302-bde5-cd5195453693.png)
+
 
 
 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 
-![obraz](https://user-images.githubusercontent.com/116502803/204157018-392a9eb2-8b11-4508-8e18-a0d20a7c2db5.png)
+![obraz](https://user-images.githubusercontent.com/116502803/204158083-c7aeffc5-239c-48c0-a7ff-a0d07a8f4552.png)
+
 
 
 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
 
-![obraz](https://user-images.githubusercontent.com/116502803/204157030-28d7c8fd-295b-475c-886a-bbe27270f724.png)
+![obraz](https://user-images.githubusercontent.com/116502803/204158090-2607be4c-6428-42ca-b4b2-1508bde8cb28.png)
 
 
 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
 
-![obraz](https://user-images.githubusercontent.com/116502803/204157042-490414cb-f040-4d99-bac6-dc698ef0dee0.png)
+![obraz](https://user-images.githubusercontent.com/116502803/204158099-f0484c07-2271-437d-9bc1-f18bcda1c45e.png)
+
 
 
 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+![obraz](https://user-images.githubusercontent.com/116502803/204158106-6cfa4a4e-776d-4942-9c37-e3371d264157.png)
 
-![obraz](https://user-images.githubusercontent.com/116502803/204157059-cd21b143-743f-471b-9df0-3e81f1a8d687.png)
 
 
 9. Wyświetl dane klienta, który nie ma podanego adresu email.
-![obraz](https://user-images.githubusercontent.com/116502803/204157071-72a169a9-6ddc-4925-a188-4cbaa57acb9a.png)
+![obraz](https://user-images.githubusercontent.com/116502803/204158114-8229b615-6bed-4d30-9735-4133d95a78fb.png)
+
 
 
 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
-![obraz](https://user-images.githubusercontent.com/116502803/204157629-12e0142d-5bf6-40aa-950f-87238cf2ab62.png)
+![obraz](https://user-images.githubusercontent.com/116502803/204158123-f010899e-8e1c-4aef-b2af-5890f92b3655.png)
+
+
 
