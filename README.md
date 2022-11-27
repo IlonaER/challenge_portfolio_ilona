@@ -199,3 +199,5 @@ ZROBIONE!!! :D ✔️
 
 
 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+![obraz](https://user-images.githubusercontent.com/116502803/204157629-12e0142d-5bf6-40aa-950f-87238cf2ab62.png)
+
