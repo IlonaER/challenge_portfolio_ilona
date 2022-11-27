@@ -143,26 +143,59 @@ Aplikacja zaprojektowana jest do interakcji z użytkownikiem, posiada złożone 
 
 ## Subtask 1
 
+W tym zadaniu dowiedziałam się czym jest język SQL i jakie są zapytania : SELECT,	FROM,	WHERE,GROUP BY,ORDER BY. 
+
+_SQL to język komputerowy przeznaczony do pracy ze zbiorami faktów i relacjami między nimi._
+
+
+## Subtask 2 
+
+ZROBIONE!!! :D ✔️
+![obraz](https://user-images.githubusercontent.com/116502803/204156654-31ef9e61-989d-4980-91ab-b598444e1865.png)
+
+
 ## Subtask 3
 
-
-
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+![obraz](https://user-images.githubusercontent.com/116502803/204156956-71e26d95-3b43-44ca-8e68-29f70e59ae3d.png)
+
 
 2. Wyświetl film, który powstał w 2019 roku.
+![obraz](https://user-images.githubusercontent.com/116502803/204156973-f8faeb36-34b7-444f-abc8-593c673344b1.png)
+
 
 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
 
+![obraz](https://user-images.githubusercontent.com/116502803/204156987-fbd4497d-0b16-44e2-a200-e714b6cacf51.png)
+
+
 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ 
+
+![obraz](https://user-images.githubusercontent.com/116502803/204157005-166ba037-5d52-40db-b568-f7f785698b08.png)
+
 
 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 
+![obraz](https://user-images.githubusercontent.com/116502803/204157018-392a9eb2-8b11-4508-8e18-a0d20a7c2db5.png)
+
+
 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
+
+![obraz](https://user-images.githubusercontent.com/116502803/204157030-28d7c8fd-295b-475c-886a-bbe27270f724.png)
+
 
 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
 
+![obraz](https://user-images.githubusercontent.com/116502803/204157042-490414cb-f040-4d99-bac6-dc698ef0dee0.png)
+
+
 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 
+![obraz](https://user-images.githubusercontent.com/116502803/204157059-cd21b143-743f-471b-9df0-3e81f1a8d687.png)
+
+
 9. Wyświetl dane klienta, który nie ma podanego adresu email.
+![obraz](https://user-images.githubusercontent.com/116502803/204157071-72a169a9-6ddc-4925-a188-4cbaa57acb9a.png)
+
 
 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
