@@ -1,6 +1,6 @@
 # TASK 1
 
-#Testy Eksploracyjne
+# Testy Eksploracyjne
 
 ## Subtask 1
 
@@ -58,7 +58,7 @@ ogólne :
 
 # TASK 2
 
-#Przypadki Testowe
+# Przypadki Testowe
 
 ## Subtask 1
 
@@ -96,7 +96,7 @@ Linki do pobrania :
 
 # TASK 3
 
-#Raportowanie błędów
+# Raportowanie błędów
 
 ## Subtask 1-3
 
@@ -110,7 +110,7 @@ _LINK DO FOLDERU Z ZADANIAMI 1-3_
 
 # TASK 4 
 
-#Testowanie aplikacji mobilnych
+# Testowanie aplikacji mobilnych
 
 ![obraz](https://user-images.githubusercontent.com/116502803/202800529-b76b2cc4-310c-47bd-9b95-1d42acbc2052.png)
 
@@ -149,7 +149,7 @@ Aplikacja zaprojektowana jest do interakcji z użytkownikiem, posiada złożone 
 
 # TASK 5
 
-#SQL part 1
+# SQL part 1
 
 ## Subtask 1
 
