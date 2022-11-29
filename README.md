@@ -145,7 +145,17 @@ Dodałabym w aplikacji możliwość dodania zdjęcia profilowego , interakcji mi
 :grey_question:_5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?_
 
 Strona internetowa skupia się na przekazie informacji dla osoby odwiedzającej, proste funkcjonalności, zazwyczaj nie wymaga uwierzytelniania personalnego.
-Aplikacja zaprojektowana jest do interakcji z użytkownikiem, posiada złożone mechanizmy i funkcje, zazwyczaj wymaga uwierzytelnienia personalnego. 
+Aplikacja zaprojektowana jest do interakcji z użytkownikiem, posiada złożone mechanizmy i funkcje, zazwyczaj wymaga uwierzytelnienia personalnego.
+
+## Subtask 4 :boom: 
+
+:boom: Zadanie dla chętnych. 
+## Testy aplikacji mobilnej i webowej.
+:boom: Wykonane z Anna Hałas i Jowita Kałucka.  :boom:
+
+![obraz](https://user-images.githubusercontent.com/116502803/204475920-838daa4f-8f62-4d2d-b823-398c546f8aef.png)
+
+ :star: https://halas2022.atlassian.net/jira/software/projects/CPP/boards/1?label=WEB%2CMOBILE
 
 # TASK 5
 
