@@ -62,11 +62,12 @@ ogólne :
 
 ## Subtask 1
 
-:pencil2: https://docs.google.com/spreadsheets/d/1SQZNn9DFWDLQHjvpZF3Y-jgVg40fRn8WiL9FYvge3Z0/edit#gid=0
+:pencil2: [TEST CASES](https://docs.google.com/spreadsheets/d/1SQZNn9DFWDLQHjvpZF3Y-jgVg40fRn8WiL9FYvge3Z0/edit#gid=0)
+0
 
 ## Subtask 2
 
-:pencil2:https://docs.google.com/spreadsheets/d/1zVuimNVxVWDsMral14TWLH-uEDZOKgyXpBZP_CxqrSk/edit#gid=0
+✏️[TEST CASES](https://docs.google.com/spreadsheets/d/1zVuimNVxVWDsMral14TWLH-uEDZOKgyXpBZP_CxqrSk/edit#gid=0)
 
 ## Subtask 3
 :question:
@@ -152,10 +153,11 @@ Aplikacja zaprojektowana jest do interakcji z użytkownikiem, posiada złożone 
 :boom: Zadanie dla chętnych. 
 ## Testy aplikacji mobilnej i webowej.
 :boom: Wykonane z Anna Hałas i Jowita Kałucka.  :boom:
+:star: [Jira- test aplikacji SwepTo](https://halas2022.atlassian.net/jira/software/projects/CPP/boards/1?label=WEB%2CMOBILE)
 
 ![obraz](https://user-images.githubusercontent.com/116502803/204475920-838daa4f-8f62-4d2d-b823-398c546f8aef.png)
 
- :star: [Jira- test aplikacji SwepTo](https://halas2022.atlassian.net/jira/software/projects/CPP/boards/1?label=WEB%2CMOBILE)
+ 
 
 # TASK 5
 
