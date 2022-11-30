@@ -104,11 +104,15 @@ Zadanie wykonane z Anna Hałas i Justyna Smołkowicz.
 
 # Raportowanie błędów
 
-## Subtask 1-3
+## Subtask 1-2
 
-_LINK DO FOLDERU Z ZADANIAMI 1-3_
+Utworzenie formatki do zgłaszania błędów systemu i testowanie według planów testów i raportowanie błędów
 
-:pencil2: https://drive.google.com/drive/u/0/folders/1v1DXEawc7s8jlVrfs7ysKHICE9BBL8R3
+📝 [Fromatka i plan testów](https://docs.google.com/spreadsheets/d/1Cr0C98g_r9e-ox4WsNjSKr46a59KgGHxKRy5ENSyKjk/edit#gid=797795698)
+
+## Subtask 3
+
+:pencil2: [Raport z testów](https://docs.google.com/document/d/1YbnCNxyN1HSR4tjZBn0cb0Dio-D4n25yaQ_PC2VSXjU/edit)
 
 ![obraz](https://user-images.githubusercontent.com/116502803/201517766-d56cf3d1-790c-4bba-897b-ae7acdfeffef.png)
 
