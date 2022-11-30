@@ -92,8 +92,13 @@ Linki do pobrania :
 :flashlight: https://www.datadoghq.com 
 
 ## Subtask 4
+💥 DLA CHĘTNYCH- Pisanie przypadków testowych na podstawie “własnych doświadczeń".
 
-:pencil2: https://docs.google.com/document/d/1qCHG3Kz0est6oassLm8g_u2Ln6Ugymq7/edit
+Aplikacja Pick Eat Up
+
+Zadanie wykonane z Anna Hałas i Justyna Smołkowicz.
+
+:pencil2: [Pisanie przypadków testowych na podstawie “własnych doświadczeń".] (https://docs.google.com/document/d/1qCHG3Kz0est6oassLm8g_u2Ln6Ugymq7/edit)
 
 # TASK 3
 
