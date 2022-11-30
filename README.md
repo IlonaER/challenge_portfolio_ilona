@@ -62,12 +62,12 @@ ogólne :
 
 ## Subtask 1
 
-:pencil2: [TEST CASES](https://docs.google.com/spreadsheets/d/1SQZNn9DFWDLQHjvpZF3Y-jgVg40fRn8WiL9FYvge3Z0/edit#gid=0)
-0
+:pencil2: [TEST CASES- Pisanie przypadków testowych na podstawie User Story.](https://docs.google.com/spreadsheets/d/1SQZNn9DFWDLQHjvpZF3Y-jgVg40fRn8WiL9FYvge3Z0/edit#gid=0)
+
 
 ## Subtask 2
 
-✏️[TEST CASES](https://docs.google.com/spreadsheets/d/1zVuimNVxVWDsMral14TWLH-uEDZOKgyXpBZP_CxqrSk/edit#gid=0)
+✏️[Pisanie przypadków testowych na podstawie “własnych doświadczeń".](https://docs.google.com/spreadsheets/d/1zVuimNVxVWDsMral14TWLH-uEDZOKgyXpBZP_CxqrSk/edit#gid=0)
 
 ## Subtask 3
 :question:
