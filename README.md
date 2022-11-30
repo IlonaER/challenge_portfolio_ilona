@@ -155,7 +155,7 @@ Aplikacja zaprojektowana jest do interakcji z użytkownikiem, posiada złożone 
 
 ![obraz](https://user-images.githubusercontent.com/116502803/204475920-838daa4f-8f62-4d2d-b823-398c546f8aef.png)
 
- :star: https://halas2022.atlassian.net/jira/software/projects/CPP/boards/1?label=WEB%2CMOBILE
+ :star: [Jira- test aplikacji SwepTo https](://halas2022.atlassian.net/jira/software/projects/CPP/boards/1?label=WEB%2CMOBILE)
 
 # TASK 5
 
