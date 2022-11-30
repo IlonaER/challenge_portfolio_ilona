@@ -126,6 +126,9 @@ Utworzenie formatki do zgłaszania błędów systemu i testowanie według planó
 
 
 ## Subtask 1-2
+
+Aplikacja Focusly.
+
 :pencil2: [Testowanie eksploracyjne i raportowanie błędów](https://docs.google.com/spreadsheets/d/1fdO8D-vW5-ebooiQZmZp25QEW7fAelsv94ogZbqN-P4/edit#gid=0)
 
 ## Subtask 3
