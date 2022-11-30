@@ -126,7 +126,7 @@ Utworzenie formatki do zgłaszania błędów systemu i testowanie według planó
 
 
 ## Subtask 1-2
-:pencil2: https://docs.google.com/spreadsheets/d/1fdO8D-vW5-ebooiQZmZp25QEW7fAelsv94ogZbqN-P4/edit#gid=0
+:pencil2: [Testowanie eksploracyjne i raportowanie błędów](https://docs.google.com/spreadsheets/d/1fdO8D-vW5-ebooiQZmZp25QEW7fAelsv94ogZbqN-P4/edit#gid=0)
 
 ## Subtask 3
 
@@ -160,8 +160,11 @@ Aplikacja zaprojektowana jest do interakcji z użytkownikiem, posiada złożone 
 ## Subtask 4 :boom: 
 
 :boom: Zadanie dla chętnych. 
+
 ## Testy aplikacji mobilnej i webowej.
-:boom: Wykonane z Anna Hałas i Jowita Kałucka.  :boom:
+
+:boom: Wykonane z Anna Hałas i Jowita Kałucka. :boom:
+
 :star: [Jira- test aplikacji SwepTo](https://halas2022.atlassian.net/jira/software/projects/CPP/boards/1?label=WEB%2CMOBILE)
 
 ![obraz](https://user-images.githubusercontent.com/116502803/204475920-838daa4f-8f62-4d2d-b823-398c546f8aef.png)
