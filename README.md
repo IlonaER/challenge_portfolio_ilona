@@ -67,7 +67,7 @@ ogólne :
 
 ## Subtask 2
 
-✏️[Pisanie przypadków testowych na podstawie “własnych doświadczeń".](https://docs.google.com/spreadsheets/d/1zVuimNVxVWDsMral14TWLH-uEDZOKgyXpBZP_CxqrSk/edit#gid=0)
+✏️[TEST CASES-Pisanie przypadków testowych na podstawie “własnych doświadczeń".](https://docs.google.com/spreadsheets/d/1zVuimNVxVWDsMral14TWLH-uEDZOKgyXpBZP_CxqrSk/edit#gid=0)
 
 ## Subtask 3
 :question:
