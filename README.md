@@ -246,5 +246,28 @@ ZROBIONE!!! :D ✔️
 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 ![obraz](https://user-images.githubusercontent.com/116502803/204158123-f010899e-8e1c-4aef-b2af-5890f92b3655.png)
 
+# TASK 6
+
+# SQL part 2
+
+## Subtask 1
+
+
+
+## Subtask 2
+
+Sprawdź swoją wiedzę z zakresu testowania oprogramowania:
+Poziom podstawowy
+
+cyan-15
+
+alabastrowy-15
+
+indygo-14
+
+heban-13
+
+## Subtask 3
+
 
 
