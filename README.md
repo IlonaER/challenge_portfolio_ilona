@@ -252,22 +252,27 @@ ZROBIONE!!! :D ✔️
 
 ## Subtask 1
 
+ Krótki kurs podstaw SQL
 
 
 ## Subtask 2
 
 Sprawdź swoją wiedzę z zakresu testowania oprogramowania:
+
 Poziom podstawowy
 
-cyan-15
+:large_blue_circle: cyan-15
 
-alabastrowy-15
+:white_circle: alabastrowy-15
 
-indygo-14
+:purple_circle: indygo-14
 
-heban-13
+:brown_circle: heban-13
 
 ## Subtask 3
+
+Tworzymy portfolio
+
 
 
 
