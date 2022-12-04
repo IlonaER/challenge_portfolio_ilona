@@ -261,6 +261,9 @@ ZROBIONE!!! :D ✔️
 
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
 
+![obraz](https://user-images.githubusercontent.com/116502803/205512453-abd413b0-71cb-4d6f-aed3-67e7befdd8a0.png)
+
+
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: [pati@mail.com](mailto:pati@mail.com)
 
 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
@@ -281,6 +284,8 @@ ZROBIONE!!! :D ✔️
 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = [honia@mail.com](mailto:honia@mail.com) oraz pseudonym = Hoa
 
 
+
+
 ## Subtask 2
 
 Sprawdź swoją wiedzę z zakresu testowania oprogramowania:
@@ -299,6 +304,7 @@ Poziom podstawowy
 
 Tworzymy portfolio
 
+[UPDATE](https://github.com/IlonaER/IlonaRadecka-Update/edit/main/README.md)
 
 
 
