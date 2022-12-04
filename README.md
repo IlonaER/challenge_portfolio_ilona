@@ -304,7 +304,7 @@ Poziom podstawowy
 
 Tworzymy portfolio
 
-[UPDATE](https://github.com/IlonaER/IlonaRadecka-Update/edit/main/README.md)
+ :star: [UPDATE](https://github.com/IlonaER/IlonaRadecka-Update/edit/main/README.md)
 
 
 
