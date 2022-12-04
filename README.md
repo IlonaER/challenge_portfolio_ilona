@@ -255,6 +255,9 @@ ZROBIONE!!! :D ✔️
  Krótki kurs podstaw SQL
  
  11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
+ 
+ ![obraz](https://user-images.githubusercontent.com/116502803/205507146-471072de-bc99-47e2-8880-ff87daf9a032.png)
+
 
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
 
@@ -267,6 +270,9 @@ ZROBIONE!!! :D ✔️
 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
 
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
+
+![obraz](https://user-images.githubusercontent.com/116502803/205507165-fd98125c-2697-4489-ae22-15a3af2a17e0.png)
+
 
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
 
