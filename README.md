@@ -279,6 +279,9 @@ ZROBIONE!!! :D ✔️
 
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
 
+![obraz](https://user-images.githubusercontent.com/116502803/205615062-9d654719-1ddb-4a75-b7a4-1d71877b06e3.png)
+
+
 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
 
 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = [honia@mail.com](mailto:honia@mail.com) oraz pseudonym = Hoa
@@ -303,6 +306,8 @@ Poziom podstawowy
 ## Subtask 3
 
 Tworzymy portfolio
+
+# ABOUT ME : 
 
  :star: [UPDATE](https://github.com/IlonaER/IlonaRadecka-Update/edit/main/README.md)
 
