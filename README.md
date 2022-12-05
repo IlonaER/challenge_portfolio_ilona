@@ -286,6 +286,9 @@ ZROBIONE!!! :D ✔️
 
 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = [honia@mail.com](mailto:honia@mail.com) oraz pseudonym = Hoa
 
+![obraz](https://user-images.githubusercontent.com/116502803/205618960-f243a54f-ec7a-4ed8-85d3-acf89cc05d59.png)
+
+
 
 
 
