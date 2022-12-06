@@ -318,7 +318,7 @@ Tworzymy portfolio
 # ABOUT ME : 
 
 
- :star: [UPDATE](https://github.com/IlonaER/IlonaRadecka-Update/edit/main/README.md)
+ :star: [UPDATE](https://github.com/IlonaER/IlonaRadecka-Update)
 
 
 
